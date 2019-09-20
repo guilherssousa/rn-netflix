@@ -1,1 +1,1 @@
-Reprodução da UI do Netflix. Feito por fins educacionais.
+Reprodução da UI do Netflix. Feito por fins educacionais. A falta de ícones na Navbar é proposital.
